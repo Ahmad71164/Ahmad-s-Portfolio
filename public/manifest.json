@@ -1,0 +1,17 @@
+{
+  "name": "Muhammad Ahmad Amir - Portfolio",
+  "short_name": "M.Ahmad",
+  "description": "Full Stack Software Engineer & AI Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04060c",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+/* Custom Cursor — hides default system cursor site-wide */
+:global(body) {
+  cursor: none !important;
+}
+:global(a),
+:global(button),
+:global([data-cursor]) {
+  cursor: none !important;
+}
+
+.dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 7px;
+  height: 7px;
+  background: var(--accent-purple);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 999999;
+  /* transform set via JS — no CSS transition for zero-lag dot */
+  will-change: transform;
+  box-shadow: 0 0 8px var(--accent-purple);
+}
+
+.ring {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 34px;
+  height: 34px;
+  border: 1.5px solid rgba(139, 92, 246, 0.7);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 999998;
+  /* transform set via rAF loop in JS — no CSS transition */
+  will-change: transform;
+}
+
+@media (pointer: coarse) {
+  .dot,
+  .ring {
+    display: none;
+  }
+}
