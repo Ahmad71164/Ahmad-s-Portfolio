@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🚀 [**View Live Demo →**](https://mahmadamir-portfolio-fgxkoeem2.vercel.app)
+### 🚀 [**View Live Demo →**](https://mahmadamir-portfolio.vercel.app)
 
 *A premium full-stack developer portfolio featuring 3D WebGL visuals, AI-powered chatbot, GSAP animations, and a modern dark space aesthetic.*
 
@@ -123,7 +123,7 @@ Software Engineering Student @ FAST-NUCES, Faisalabad
 
 [![Email](https://img.shields.io/badge/Email-muhammadahmadamir7%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:muhammadahmadamir7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-amir)
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-View%20Now-8b5cf6?logo=vercel&logoColor=white)](https://mahmadamir-portfolio-fgxkoeem2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-View%20Now-8b5cf6?logo=vercel&logoColor=white)](https://mahmadamir-portfolio.vercel.app)
 
 ---
 
